@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dino MyStake : Le Jeu de Crash Révolutionnaire</title>
     <meta name="description" content="Découvrez Dino MyStake, le jeu de crash captivant du casino MyStake. Apprenez comment jouer, les stratégies gagnantes et les bonus disponibles pour maximiser vos gains.">
     <meta name="keywords" content="Dino MyStake, jeu de crash, casino en ligne, stratégies de jeu, bonus casino">
     <link rel="stylesheet" href="styles.css">

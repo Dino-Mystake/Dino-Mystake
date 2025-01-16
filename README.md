@@ -12,6 +12,11 @@
         <h1>Dino MyStake : Le Jeu de Crash Révolutionnaire</h1>
     </header>
     <main>
+        <a href="https://record.m-affiliates.com/_9HSjm8-QPXVhg6WO2I1rgWNd7ZgqdRLk/8/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+        Jouez gratuitement à ce jeu !
+    </button>
+</a>
         <section>
             <h2>Qu'est-ce que Dino MyStake ?</h2>
             <p>Dino MyStake est un jeu de crash innovant développé par UpGaming, disponible exclusivement sur le casino en ligne MyStake. Inspiré du célèbre mini-jeu de Google avec le T-Rex, Dino offre une expérience de jeu unique où un dinosaure court pour échapper à une météorite, augmentant ainsi un multiplicateur de gains. Le but est d'encaisser vos gains avant que le dinosaure ne soit frappé, avec un multiplicateur pouvant atteindre jusqu'à 10 000 fois votre mise. :contentReference[oaicite:0]{index=0}</p>
@@ -37,6 +42,11 @@
             <p>Il est essentiel de noter qu'aucune stratégie ne garantit un gain à 100 %, et il est recommandé de jouer de manière responsable.</p>
         </section>
         <section>
+            <a href="https://record.m-affiliates.com/_9HSjm8-QPXVhg6WO2I1rgWNd7ZgqdRLk/8/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+        Jouez gratuitement à ce jeu !
+    </button>
+</a>
             <h2>Bonus et Offres Spéciales</h2>
             <p>MyStake Casino propose plusieurs bonus pour les joueurs de Dino :</p>
             <ul>
@@ -51,6 +61,11 @@
             <p>Dino MyStake est entièrement optimisé pour les appareils mobiles, vous permettant de jouer où que vous soyez. Aucune application n'est nécessaire ; accédez simplement au site de MyStake via votre navigateur mobile pour une expérience de jeu fluide et agréable. :contentReference[oaicite:8]{index=8}</p>
         </section>
         <section>
+            <a href="https://record.m-affiliates.com/_9HSjm8-QPXVhg6WO2I1rgWNd7ZgqdRLk/8/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+        Jouez gratuitement à ce jeu !
+    </button>
+</a>
             <h2>Conclusion</h2>
             <p>Dino MyStake se distingue comme l'un des jeux de crash les plus captivants du moment. Avec son gameplay simple mais addictif, ses fonctionnalités innovantes et les généreux bonus offerts par MyStake Casino, il offre une expérience de jeu inégalée aux amateurs de sensations fortes. N'attendez plus pour tenter votre chance et peut-être décrocher des gains spectaculaires !</p>
         </section>
